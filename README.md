@@ -42,8 +42,8 @@ open_to: [internships, collaboration, security projects]
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Muszunia03&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muszunia03&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muszunia03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muszunia03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
