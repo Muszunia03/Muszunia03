@@ -41,17 +41,7 @@ open_to: [internships, collaboration, security projects]
 
 ## 📊 GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muszunia03&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muszunia03&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muszunia03/Muszunia03/output/github-snake-dark.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Muszunia03/Muszunia03/output/github-snake.svg" />
-  </picture>
-</p>
+<p align="center"> <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="49%" /> <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" width="49%" /> </p> <p align="center"> <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="49%" /> <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="49%" /> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muszunia03/Muszunia03/output/github-snake-dark.svg" /> <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Muszunia03/Muszunia03/output/github-snake.svg" /> </picture> </p>
 
 ## 🚀 Projects
 
